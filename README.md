@@ -18,7 +18,7 @@ The aim is to identify behavioral patterns and group stocks with similar price t
 
 ##  Project Report
 
- [Download the PDF](./Stock Market Analyzer.pdf)
+./Stock Market Analyzer.pdf
 
 ##  Key Takeaways
 
